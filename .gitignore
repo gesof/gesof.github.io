@@ -1,0 +1,11 @@
+/.idea
+/vendor
+/init-structure/themes/default/cache
+composer.lock
+.travis/*.pem
+.travis/secrets.tar
+handle.phar
+handle.phar.pubkey
+handle.phar.version
+/out/_cache/
+/phpunit.xml
